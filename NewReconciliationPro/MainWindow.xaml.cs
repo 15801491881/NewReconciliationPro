@@ -30,8 +30,6 @@ namespace ReconciliatlnPro
         public MainWindow()
         {
             InitializeComponent();
-            
-            
         }
 
         private void button1_MouseDown(object sender, MouseButtonEventArgs e)
